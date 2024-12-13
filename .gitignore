@@ -1,0 +1,9 @@
+node_modules
+.airtableAPIKey
+build
+cypress/screenshots/
+cypress/videos/
+.idea
+.tmp
+yarn.lock
+package-lock.json
